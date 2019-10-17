@@ -1,0 +1,18 @@
+ul{
+list-style: none;
+text-align: center;
+background: aquamarine;
+margin:-8px;
+
+}
+
+li{
+    display:inline-block;
+    margin:20px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none
+}
